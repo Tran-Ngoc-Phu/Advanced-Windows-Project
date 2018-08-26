@@ -1,0 +1,9 @@
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\bin\Debug\DataGridViewMultiColor.exe.config
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\obj\Debug\DataGridViewMultiColor.csprojResolveAssemblyReference.cache
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\obj\Debug\DataGridViewMultiColor.Form1.resources
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\obj\Debug\DataGridViewMultiColor.Properties.Resources.resources
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\obj\Debug\DataGridViewMultiColor.csproj.GenerateResource.Cache
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\bin\Debug\DataGridViewMultiColor.exe
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\bin\Debug\DataGridViewMultiColor.pdb
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\obj\Debug\DataGridViewMultiColor.exe
+E:\GitHubProject\Advanced-Windows-Project\DataGridViewMultiColor\DataGridViewMultiColor\obj\Debug\DataGridViewMultiColor.pdb
